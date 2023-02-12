@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Мій улюблений блог про котів</title>
+    <body>
+        <header>
+           <img src="https://learn.logikaschool.com/uploads/2021/01/hand-3479706_1920%201_0_1611261645.png">
+           <p class="blog">
+            Мій улюблений блог 
+            </p>
+            <nav>
+             <a href="">Головна</a>
+             <a href="">Мої улюбленці</a>
+             <a href="">Галерея</a>
+             <a href="">Про мене</a>
+        </nav>
+        </header>
+        <main>
+            <h2>Мої улюбленці</h2>
+           <img src="https://learn.logikaschool.com/uploads/2021/01/mountains-4982333_1920%201_0_1611261645.png">
+           <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Читати далі ...
+
+            </p>
+            <img src="https://learn.logikaschool.com/uploads/2021/01/sochi-952140_1920%201_0_1611261646.png">
+           <p>
+               Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+        </main>
+        <footer>
+           <a href=""> Контакити</a>
+       </footer>
+    </body>
+</head>
+</html>
